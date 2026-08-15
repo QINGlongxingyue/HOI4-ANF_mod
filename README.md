@@ -1,1 +1,3 @@
-正在施工... 是个二手科幻向附加TFR或EU 
+正在施工... 
+<br>是个二手科幻向附加TFR的将领头像包全替换
+<br>手动放入文档（Documents/Paradox Interactive/Hearts of Iron IV\mod）文件夹2个
